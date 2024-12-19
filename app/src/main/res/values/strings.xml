@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Expense</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="show_chart">Show Chart</string>
+    <string name="analytics_expense">Analytics</string>
+
+    <string-array name="time_periods">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+    </string-array>
+
+</resources>
